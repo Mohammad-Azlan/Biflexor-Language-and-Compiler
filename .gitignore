@@ -39,3 +39,19 @@
 
 # debug information files
 *.dwo
+
+# Ignore build and generated files
+*.o
+*.out
+*.exe
+*.yy.cc
+*.tab.cc
+*.tab.hh
+*.tab.h
+*.output
+biflexor
+lex.yy.cc
+
+# Misc
+*.log
+*.swp
